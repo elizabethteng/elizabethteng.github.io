@@ -5,9 +5,17 @@ email: eteng@protonmail.com
 social: 
   linkedin: elizabeth-teng
 
+
+header_pages:
+  - about.md    # Example page
+  - et_resume.pdf  # Link to the resume
+  - astronomy.md
+
 navigation:
   - title: "Home"
     url: "/"
+  - title: "About me"
+    url: "/about.md"
   - title: "Astronomy Research"
     url: "/astronomy.md
   - title: "Resume"
