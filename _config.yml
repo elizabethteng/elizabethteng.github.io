@@ -3,5 +3,13 @@ description:
 theme: minima
 author: Elizabeth Teng
 email: eteng@protonmail.com
-social
+social: 
   linkedin: elizabeth-teng
+
+navigation:
+  - title: "Home"
+    url: "/"
+  # - title: "About"
+  #   url: "/about.html"
+  - title: "Resume"
+    url: "/et_resume.pdf"   # Link to your resume here
