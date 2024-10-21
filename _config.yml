@@ -8,7 +8,7 @@ social:
 navigation:
   - title: "Home"
     url: "/"
-  # - title: "About"
-  #   url: "/about.html"
+  - title: "Astronomy Research"
+    url: "/astronomy.md
   - title: "Resume"
     url: "/et_resume.pdf"   # Link to your resume here
