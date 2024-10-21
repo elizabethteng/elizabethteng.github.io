@@ -1,6 +1,6 @@
 ---
-layout: headshot_nav
-title: About Me
+layout: default
+title: About
 ---
 
 <main>
@@ -16,3 +16,5 @@ title: About Me
 </main>
 
 <footer>Updated April 21, 2023</footer>
+
+
