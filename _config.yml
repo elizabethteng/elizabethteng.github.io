@@ -17,6 +17,6 @@ navigation:
   - title: "About me"
     url: "/about.md"
   - title: "Astronomy Research"
-    url: "/astronomy.md
+    url: "/astronomy.md"
   - title: "Resume"
     url: "/et_resume.pdf"   # Link to your resume here
