@@ -7,4 +7,4 @@ I grew up in New Jersey, but the beautiful city of Chicago has been my home sinc
 
 I have interests in public transit and urbanization. 
 
-Outside of my work, I like to spend my time doing static trapeze, gardening, and making art. 
+Outside of my work, I like to spend my time practicing trapeze, gardening, and going to the symphony. 
